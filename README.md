@@ -1,0 +1,1 @@
+I recently embarked on a fascinating project aimed at training a model to authenticate my face, akin to unlocking an iPhone. One aspect of the project that particularly stands out to me is successfully configuring Google Colab to access the webcam and capture over 400 images, which served as invaluable samples for training the model.
