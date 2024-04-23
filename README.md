@@ -22,7 +22,7 @@ This is a TensorFlow neural network model that performs computer vision to authe
 ## 🏫 What Did I Learn
 
 * How to use Tensor flow decoraters.
-* How to creaet a custom training step using TensorFlow.
+* How to create a custom training step using TensorFlow.
 
 ## 🔑 Key Takeaways
 
