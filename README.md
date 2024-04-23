@@ -1,25 +1,36 @@
-![Face Verification](https://github.com/AishaEvering/FaceVerification/)
-# Project Title
+<p align="center">
+   <img src="https://github.com/AishaEvering/FaceVerification/blob/main/FaceVerification.png" alt="Face Verfication" width="600" height="300">
+</p>
+
+# Face Verification (YouTube Tutorial)
 
 Simple overview of use/purpose.
 
-## Description
+## 📃Description
 
-An in-depth paragraph about your project and overview of use.
+Machine learning model that validates if the face in the image matches the pre-loaded verfication images.  I followed this tutorial for practice on creating a model from a research paper.
 
-## Getting Started
-
-### Dependencies
+## 🏫 What Did I Learn
 
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * ex. Windows 10
 
-### Installing
+## 🔑 Key Takeaways
 
 * How/where to download your program
 * Any modifications needed to be made to files/folders
 
-### Executing program
+### 😤 Where I Got Stuck
+
+* How/where to download your program
+* Any modifications needed to be made to files/folders
+
+### ☑️ Todos...
+
+* How/where to download your program
+* Any modifications needed to be made to files/folders
+  
+### 📖 Dataset
 
 * How to run the program
 * Step-by-step bullets
@@ -27,33 +38,7 @@ An in-depth paragraph about your project and overview of use.
 code blocks for commands
 ```
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
+## 🙏 Acknowledgments
 
 Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
