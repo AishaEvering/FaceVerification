@@ -1,10 +1,10 @@
 <p align="center">
-   <img src="https://github.com/AishaEvering/FaceVerification/blob/main/FaceVerification.png" alt="Face Verfication" width="600" height="300">
+   <img src="https://github.com/AishaEvering/FaceVerification/blob/main/FaceVerification.png" alt="Face Verification" width="600" height="300">
 </p>
 
 # Face Verification (YouTube Tutorial) :youtube
 
-This is the result of an 8 part YouTube series of using Deep Learning with TensorFlow to authenicate your face much like on IPhone.  *Pretty Cool.*
+This is the result of an 8 part YouTube series of using Deep Learning with TensorFlow to authenticate your face much like on iPhone.  *Pretty Cool.*
 
 ## Technologies
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
@@ -21,13 +21,13 @@ This is a TensorFlow neural network model that performs computer vision to authe
 
 ## 🏫 What Did I Learn
 
-* How to use Tensor flow decoraters.
+* How to use Tensor flow decorators.
 * How to create a custom training step using TensorFlow.
 
 ## 🔑 Key Takeaways
 
-This is my first experience with following a research paper's neural network archetecture.  Some of the cool takeways I got from it where
-* One Shot: The model must correctly make predictionss given only a single example.  The model was trained on hundreds of images of my face (positive) and randomn faces (negative). Then the model was given a single single (one-shot) image and validated it against a validation image.  Depending on the verfiication threshold which in the case was 70% the model verified that if the person in the image was the same person if the given image.
+This is my first experience with following a research paper's neural network architecture.  Some of the cool takeaways I got from it where
+* One Shot: The model must correctly make predictions given only a single example.  The model was trained on hundreds of images of my face (positive) and random faces (negative). Then the model was given a single single (one-shot) image and validated it against a validation image.  Depending on the verification threshold which in the case was 70% the model verified that if the person in the image was the same person if the given image.
 * This model used the siamese neural network method that took in 2 inputs and ranked the similarity.
 
 
@@ -37,13 +37,13 @@ This is my first experience with following a research paper's neural network arc
 
 ### ☑️ Todos...
 
-* Deploy the model so it can easily verfiy faces.
+* Deploy the model so it can easily verify faces.
   
 ### 📖 Dataset
 
 * ~400 Anchor images taken with my webcam.  They are currently stored in my Google Drive.
 * ~400 Positive images taken with my webcam.  They are currently store in my Google Drive.
-* ~400 Negatvie images provided my tutorial, labled Faces in the Wild. 
+* ~400 Negative images provided my tutorial, labeled Faces in the Wild. 
   
 ## 🙏 Acknowledgments
 
